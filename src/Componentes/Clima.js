@@ -13,7 +13,7 @@ function Clima() {
         setTempe(conversorKC(clima?.main.temp, "°C"));
         setImagen(`http://openweathermap.org/img/wn/${clima?.weather[0].icon}@2x.png`);
         },
-        [clima?.main.temp,`http://openweathermap.org/img/wn/${clima?.weather[0].icon}@2x.png`]);
+        [clima]);
     
     const conversor = () => {
         if (tempe[1] === "°C") {
