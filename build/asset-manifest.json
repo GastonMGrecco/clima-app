@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/clima-app/static/css/main.711f848c.chunk.css",
+    "main.js": "/clima-app/static/js/main.40ecdf0b.chunk.js",
+    "main.js.map": "/clima-app/static/js/main.40ecdf0b.chunk.js.map",
+    "runtime-main.js": "/clima-app/static/js/runtime-main.0cc10fea.js",
+    "runtime-main.js.map": "/clima-app/static/js/runtime-main.0cc10fea.js.map",
+    "static/js/2.56c884d5.chunk.js": "/clima-app/static/js/2.56c884d5.chunk.js",
+    "static/js/2.56c884d5.chunk.js.map": "/clima-app/static/js/2.56c884d5.chunk.js.map",
+    "static/js/3.eacd4e5a.chunk.js": "/clima-app/static/js/3.eacd4e5a.chunk.js",
+    "static/js/3.eacd4e5a.chunk.js.map": "/clima-app/static/js/3.eacd4e5a.chunk.js.map",
+    "index.html": "/clima-app/index.html",
+    "static/css/main.711f848c.chunk.css.map": "/clima-app/static/css/main.711f848c.chunk.css.map",
+    "static/js/2.56c884d5.chunk.js.LICENSE.txt": "/clima-app/static/js/2.56c884d5.chunk.js.LICENSE.txt",
+    "static/media/imgfondo.9547e7b5.gif": "/clima-app/static/media/imgfondo.9547e7b5.gif",
+    "static/media/noche.198e65a5.gif": "/clima-app/static/media/noche.198e65a5.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0cc10fea.js",
+    "static/js/2.56c884d5.chunk.js",
+    "static/css/main.711f848c.chunk.css",
+    "static/js/main.40ecdf0b.chunk.js"
+  ]
+}
