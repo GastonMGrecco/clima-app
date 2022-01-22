@@ -1,4 +1,3 @@
-
 import './App.css';
 import Clima from './Componentes/Clima'
 
